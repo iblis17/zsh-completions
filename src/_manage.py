@@ -1,4 +1,4 @@
-#compdef manage.py django-admin.py
+#compdef manage.py django-admin.py django-admin
 # ------------------------------------------------------------------------------
 # Description
 # -----------
